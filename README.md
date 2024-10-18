@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-From courtroom drama to code elegance: A law grad turned software engineer, passionate about building applications that are beautiful, scalable, and efficient. Crafting clean APIs and pixel-perfect UIs, one commit at a time. <br>Always coding, occasionally sleeping, and constantly learning.<be>
+From courtroom drama to code elegance: A law grad turned software engineer, passionate about building applications that are beautiful, scalable, and efficient. Crafting clean APIs and pixel-perfect UIs, one commit at a time.
 
-Here's a link to my portfolio: https://linaadamson.me/
+Always coding, occasionally sleeping, and constantly learning. https://linaadamson.me/
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on a tax application using Node.js and PHP
 - 🌱 I’m currently learning DevOps practices and cloud technologies
 - 💬 Ask me about full-stack development, RESTful APIs, or transitioning from law to tech
-- 📫 How to reach me:  adamsonlina@gmail.com or connect on LinkedIn [https://www.linkedin.com/in/lina-adamson-73907921a]
+- 📫 How to reach me: adamsonlina@gmail.com or connect on LinkedIn [https://www.linkedin.com/in/lina-adamson-73907921a]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/linaadamson/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lina-adamson-73907921a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Linadamson) 
