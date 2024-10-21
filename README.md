@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-From courtroom drama to code elegance: A law grad turned software engineer, passionate about building applications that are beautiful, scalable, and efficient. Crafting clean APIs and pixel-perfect UIs, one commit at a time.
+From 'Habeas corpus' to 'Hello, world!': A law grad turned software engineer, passionate about building applications that are beautiful, scalable, and efficient. Crafting clean APIs and pixel-perfect UIs, one commit at a time.
 
 Always coding, occasionally sleeping, and constantly learning. https://linaadamson.me/
 
